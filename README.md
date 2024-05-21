@@ -5,6 +5,8 @@ Create a Calendar application where user can add/delete events and set reminders
 
 - Milestone 2: Define database structure.
 
+- Milestone 3: Add services and more relationships.
+
 <br>
 
 ## Project Members
@@ -13,7 +15,7 @@ Create a Calendar application where user can add/delete events and set reminders
 |--------|------------------------------------------------------------------|
 | Marina | Address Book                                                     |
 | Koji   | Appointment Creation + Calendar Type                             |
-| Jakub  | Reminders                                                        |
+| Jakub  | UI + Reminders                                                        |
 | Piyush | Sharing a Link With Open Meeting Times of People in Address Book |
 | Sushanth | To-Do/Task List                                                  |
 
@@ -30,11 +32,11 @@ Will meet using Discord and Github.  Will meet once a week on days Thursday thro
 <br/>
 
 ## Decision Made
-| # | Area                          | Decision                 | Alternative     | Rationale
-| ----------- |-------------------------------|--------------------------|-----------------|--- |
-| 1 | Database                      | Use mySQL                | NoSQL, Firebase | We are more familiar with mySQL
-| 2 | Defined Objects               | Event, Calendar, Meeting | Only Event      | To be more thorough
-| 3 | Define Database Configuration | Lombok                   | Another one     | We know how to use this from lecture
+| # | Area            | Decision                                                | Alternative                                        | Rationale
+| ----------- |-----------------|---------------------------------------------------------|----------------------------------------------------|--- |
+| 1 | Individual Work | Made sure everyone has their own distinct contributions | Can do work on what is different from assigned task | Addressing professor's advice
+| 2 | Meetings        | Had more meetings and specific merging meeting          | None                                               | To make sure we address all of professor's comments
+| 3 |                 |                                                         |                                                    | 
 
 
 

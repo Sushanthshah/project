@@ -1,4 +1,4 @@
-package com.group2.project.CalendarObjects;
+package com.group2.project.calendarobjects;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -12,6 +12,9 @@ import java.util.Date;
 @Getter
 public class Meeting extends CalendarObject
 {
+
+    // todo : Add addressbook implementation
+    // todo:    --> proposed: ArrayList<Contacts> AddressBook
 
     @Column(name = "LOCATION")
     private String location;
